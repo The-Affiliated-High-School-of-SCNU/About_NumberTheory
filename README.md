@@ -1,2 +1,3 @@
 # About_NumberTheory
-雷蒻
+
+转载自[数论杂谈 By KesdiaelKen](https://www.luogu.org/blog/Kesdiael3/shu-lun-za-tan)
